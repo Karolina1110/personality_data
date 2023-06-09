@@ -1,0 +1,4 @@
+Wykorzystanie sztucznych sieci neuronowych do klasyfikacji typu osobowości na podstawie ankiet psychologicznych.
+Klasyfikacja typu osobowości z wykorzystaniem sieci MLP oraz SOM.
+
+Wykorzystanie sztucznych sieci neuronowych w psychologii. Agnieszka Znosko 2014r.
